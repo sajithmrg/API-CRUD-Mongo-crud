@@ -14,6 +14,7 @@ router.get("/api/employee", (req, res) => {
     }
   });
 });
+//data 
 
 // //get all data another method
 // router.get('/api/employee',(req,res) =>{
